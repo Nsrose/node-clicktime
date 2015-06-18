@@ -1,0 +1,15 @@
+{
+  "author": "Nick Rose <nsrose@berkeley.edu> (http://github.com/nsrose)",
+  "name": "clicktime",
+  "description": "A wrapper for the ClickTime REST API",
+  "version": "0.0.2",
+  "homepage": "http://github.com/nsrose/node-clicktime",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nsrose/node-clicktime.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+     
+  }
+}
